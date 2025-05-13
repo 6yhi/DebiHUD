@@ -1,4 +1,4 @@
-project('MangoHud',
+project('DebiHud',
   ['c', 'cpp'],
   version : 'v0.8.1',
   license : 'MIT',
