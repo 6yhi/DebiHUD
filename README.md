@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MangoHud
 
 A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
@@ -688,3 +689,7 @@ Example output:
 
 #### Panfrost notes
 - GPU usage requires `echo 1 | sudo tee /sys/class/drm/renderD*/device/profiling`
+=======
+# DebiHud
+fork of MangoHud for debian, focuses on FPS 
+>>>>>>> 266b196e6334dda63b5b9c27718379e81aa9f059
